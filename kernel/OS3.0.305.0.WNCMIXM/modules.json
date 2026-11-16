@@ -11,6 +11,16 @@
       "file": "nxp-nci.ko",
       "sha256": "03b032bf7de9da09fc8e4fe68b17a8b51b62c159679c1d5dc9265c7250ee37b6",
       "source": "vendor_dlkm: lib/modules/nxp-nci.ko"
+    },
+    {
+      "file": "spcom.ko",
+      "sha256": "2fec09ddc75ffb5a33eda4c5090c4549c9e337154850d13a5aae6cb5acab0bb5",
+      "source": "vendor_dlkm: lib/modules/spcom.ko"
+    },
+    {
+      "file": "spss_utils.ko",
+      "sha256": "29099888d8102c289e38eb8c09165e78dbd513da606b2dbc01051cd1098f233f",
+      "source": "vendor_dlkm: lib/modules/spss_utils.ko"
     }
   ],
   "export_symvers_sha256": "0104ee1f48f55c8d086d87af9ac247d7b1d5742ab68832978235c95cb2afe351"
