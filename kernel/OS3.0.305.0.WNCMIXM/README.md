@@ -14,3 +14,8 @@ This is a temporary source-kernel bringup fallback for real Xiaomi event and
 NXP NFC interfaces. Static checks passed with kernel 6.1.25-g7cbc6862bbca;
 device loading and functional validation are still pending. Do not change
 vermagic, bypass module version checks, or assume all stock modules are usable.
+
+Module.symvers contains the five actual GPL export CRCs extracted from miev's
+ELF tables. Core source modules need this input before external module staging;
+the adapter regenerates it from the unchanged ELF and verifies the saved table
+and hash on every build. It is not a fabricated compatibility symbol table.

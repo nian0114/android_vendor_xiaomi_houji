@@ -12,5 +12,6 @@
       "sha256": "03b032bf7de9da09fc8e4fe68b17a8b51b62c159679c1d5dc9265c7250ee37b6",
       "source": "vendor_dlkm: lib/modules/nxp-nci.ko"
     }
-  ]
+  ],
+  "export_symvers_sha256": "0104ee1f48f55c8d086d87af9ac247d7b1d5742ab68832978235c95cb2afe351"
 }
