@@ -1,0 +1,15 @@
+{
+  "rom": "OS3.0.305.0.WNCMIXM",
+  "kernel_release": "6.1.157-android14-11-g78a0a76cd7b7-ab15497637",
+  "input_sha256": {
+    "boot": "6f2eb517f47369572c07cb7261e395007fc9e3260abba1fba719f41a05683157",
+    "vendor_boot": "ae09d278a9906b6e3946dcb7ac912dcff9471201db1e068c38d3b31face42d79",
+    "dtbo": "867aa48b5a24200bcfc408190ab72f0f9381eb8fada2592545dfe45812ec2180"
+  },
+  "dtb_count": 4,
+  "module_counts": {
+    "vendor_ramdisk": 340,
+    "vendor_dlkm": 313,
+    "system_dlkm": 60
+  }
+}
