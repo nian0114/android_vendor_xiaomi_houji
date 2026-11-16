@@ -1591,7 +1591,6 @@ PRODUCT_PACKAGES += \
     odm_lib_rfsa_adsp_libmialgo_tsspot_cdsp_skel_so \
     odm_lib_rfsa_adsp_libmiphone_capture_mdbokeh_cdsp_skel_so \
     odm_lib_rfsa_adsp_libmlawbpostproc_dsp_skel_so \
-    xiaomi-modem-common \
     vendor.qti.camera.provider-service_64
 
 PRODUCT_PACKAGES += \
