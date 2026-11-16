@@ -1,0 +1,16 @@
+{
+  "baseline": "OS3.0.305.0.WNCMIXM",
+  "archive": "houji_global_images_OS3.0.305.0.WNCMIXM_20261015.0000.00_16.0_global_ef90c126ec.tgz",
+  "modules": [
+    {
+      "file": "miev.ko",
+      "sha256": "27401047e257e8086184a4f84a51dea182817951134277b9b8e035f2948cac2c",
+      "source": "vendor_boot ramdisk: lib/modules/miev.ko"
+    },
+    {
+      "file": "nxp-nci.ko",
+      "sha256": "03b032bf7de9da09fc8e4fe68b17a8b51b62c159679c1d5dc9265c7250ee37b6",
+      "source": "vendor_dlkm: lib/modules/nxp-nci.ko"
+    }
+  ]
+}
