@@ -1,0 +1,17 @@
+{
+  "baseline": "OS3.0.305.0.WNCMIXM",
+  "archive": "houji_global_images_OS3.0.305.0.WNCMIXM_20261015.0000.00_16.0_global_ef90c126ec.tgz",
+  "modules": [
+    {
+      "file": "btpower.ko",
+      "sha256": "4011af008ebde3cadc0ab2aff5128b6748ad694951e1d74782310fcdc9ed384c",
+      "source": "vendor_dlkm: lib/modules/btpower.ko"
+    },
+    {
+      "file": "bt_fm_slim.ko",
+      "sha256": "7409308515299c795763fac901742526cff04beed6398293faf01824e9c72945",
+      "source": "vendor_dlkm: lib/modules/bt_fm_slim.ko"
+    }
+  ],
+  "export_symvers_sha256": "3a8067b147f988cf1acfeb22dd39d7488ee779babe408d9b77bba55f603a8ce3"
+}

@@ -1,1 +1,4 @@
 radio/*.img filter=lfs diff=lfs merge=lfs -text
+
+# Kernel symbol tables retain an empty namespace column.
+/kernel/**/Module.symvers whitespace=-blank-at-eol
