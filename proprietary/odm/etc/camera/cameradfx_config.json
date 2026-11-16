@@ -1,0 +1,90 @@
+{
+    "SENSORNAME_ROLEID_MAP":[
+        {
+            "sensorName": "houji_sunny_ovx9000_wide",
+            "roleID": 0
+        },
+        {
+            "sensorName": "houji_sunny_ovx9000_ak7316_wide_actuator",
+            "roleID": 0
+        },
+        {
+            "sensorName": "houji_wide_ak7323_ois",
+            "roleID": 0
+        },
+        {
+            "sensorName": "houji_sunny_ovx9000_p24c128e_wide_eeprom",
+            "roleID": 0
+        },
+        {
+            "sensorName": "houji_sunny_ovx9000_wide_ii",
+            "roleID": 0
+        },
+        {
+            "sensorName": "houji_sunny_ovx9000_ak7316_wide_ii_actuator",
+            "roleID": 0
+        },
+        {
+            "sensorName": "houji_wide_ak7323_ois_ii",
+            "roleID": 0
+        },
+        {
+            "sensorName": "houji_sunny_ovx9000_p24c128e_wide_ii_eeprom",
+            "roleID": 0
+        },
+        {
+            "sensorName": "houji_sunny_ov32b40_front",
+            "roleID":1
+        },
+        {
+            "sensorName": "houji_sunny_ov32b_p24c64f_front_eeprom",
+            "roleID":1
+        },
+        {
+            "sensorName": "houji_ofilm_s5kjn1_tele",
+            "roleID":20
+        },
+        {
+            "sensorName": "houji_ofilm_s5kjn1_gt24p128f_tele_eeprom",
+            "roleID": 20
+        },
+        {
+            "sensorName": "houji_ofilm_s5kjn1_gt9764v_tele_actuator",
+            "roleID": 20
+        },
+        {
+            "sensorName": "houji_s5kjn1_bu24618_ois",
+            "roleID": 20
+        },
+        {
+            "sensorName": "houji_sunny_s5kjn1_tele_ii",
+            "roleID":20
+        },
+        {
+            "sensorName": "houji_sunny_s5kjn1_p24c128f_tele_ii_eeprom",
+            "roleID": 20
+        },
+        {
+            "sensorName": "houji_sunny_s5kjn1_gt9764v_tele_ii_actuator",
+            "roleID": 20
+        },
+        {
+            "sensorName": "houji_s5kjn1_bu24618_ois_ii",
+            "roleID": 20
+        },
+        {
+            "sensorName": "houji_sunny_s5kjn1_ultra",
+            "roleID": 21
+        },
+        {
+            "sensorName": "houji_sunny_s5kjn1_gt24p128f_ultra_eeprom",
+            "roleID": 21
+        }
+
+    ],
+
+    "TOMBSTONE_FUNCTION":{
+        "isEnable": true,
+        "fileNumber": 20
+    }
+}
