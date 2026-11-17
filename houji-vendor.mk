@@ -1097,11 +1097,13 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/houji/proprietary/odm/lib64/camera/com.qti.sensormodule.houji_ofilm_s5kjn1_tele.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.houji_ofilm_s5kjn1_tele.bin \
     vendor/xiaomi/houji/proprietary/odm/lib64/camera/com.qti.sensormodule.houji_sunny_ov32b40_front.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.houji_sunny_ov32b40_front.bin \
     vendor/xiaomi/houji/proprietary/odm/lib64/camera/com.qti.sensormodule.houji_sunny_ovx9000_wide.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.houji_sunny_ovx9000_wide.bin \
+    vendor/xiaomi/houji/proprietary/odm/lib64/camera/com.qti.sensormodule.houji_sunny_ovx9000_wide_ii.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.houji_sunny_ovx9000_wide_ii.bin \
     vendor/xiaomi/houji/proprietary/odm/lib64/camera/com.qti.sensormodule.houji_sunny_s5kjn1_ultra.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.houji_sunny_s5kjn1_ultra.bin \
     vendor/xiaomi/houji/proprietary/odm/lib64/camera/com.qti.tuned.default.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.default.bin \
     vendor/xiaomi/houji/proprietary/odm/lib64/camera/com.qti.tuned.houji_ofilm_s5kjn1_tele.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.houji_ofilm_s5kjn1_tele.bin \
     vendor/xiaomi/houji/proprietary/odm/lib64/camera/com.qti.tuned.houji_sunny_ov32b40_front.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.houji_sunny_ov32b40_front.bin \
     vendor/xiaomi/houji/proprietary/odm/lib64/camera/com.qti.tuned.houji_sunny_ovx9000_wide.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.houji_sunny_ovx9000_wide.bin \
+    vendor/xiaomi/houji/proprietary/odm/lib64/camera/com.qti.tuned.houji_sunny_ovx9000_wide_ii.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.houji_sunny_ovx9000_wide_ii.bin \
     vendor/xiaomi/houji/proprietary/odm/lib64/camera/com.qti.tuned.houji_sunny_s5kjn1_ultra.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.houji_sunny_s5kjn1_ultra.bin \
     vendor/xiaomi/houji/proprietary/odm/lib64/camera/fdconfigpreview.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/fdconfigpreview.bin \
     vendor/xiaomi/houji/proprietary/odm/lib64/camera/fdconfigpreviewlite.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/fdconfigpreviewlite.bin \
