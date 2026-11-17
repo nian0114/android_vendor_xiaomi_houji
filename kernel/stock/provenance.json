@@ -1,15 +1,15 @@
 {
-  "rom": "OS3.0.305.0.WNCMIXM",
-  "kernel_release": "6.1.157-android14-11-g78a0a76cd7b7-ab15497637",
+  "rom": "OS3.0.307.0.WNCCNXM",
+  "kernel_release": "6.1.138-android14-11-g0c3d559bcd85-ab14529422",
   "input_sha256": {
-    "boot": "6f2eb517f47369572c07cb7261e395007fc9e3260abba1fba719f41a05683157",
-    "vendor_boot": "ae09d278a9906b6e3946dcb7ac912dcff9471201db1e068c38d3b31face42d79",
-    "dtbo": "867aa48b5a24200bcfc408190ab72f0f9381eb8fada2592545dfe45812ec2180"
+    "boot": "9b8fc3be39843bc238115a73cfed7b6fc1f3de08cfb44b0b3640a3a7b3a79e95",
+    "vendor_boot": "d1e84f65aca1107e9ef276b84b82e84822dd50d5c9254ff8c3c4334920537107",
+    "dtbo": "4a6628498c61a4fa649174557d03e2d052981c5180bdf17cfc27423fdb82a828"
   },
   "dtb_count": 4,
   "module_counts": {
     "vendor_ramdisk": 340,
-    "vendor_dlkm": 313,
+    "vendor_dlkm": 314,
     "system_dlkm": 60
   }
 }
